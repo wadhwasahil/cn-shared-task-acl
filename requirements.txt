@@ -1,0 +1,20 @@
+# Core
+dspy>=2.6.0
+torch>=2.2.0
+transformers>=4.43.0
+accelerate>=0.33.0
+
+# OpenAI (LLM-as-judge)
+openai>=1.30.0
+
+# Reward functions
+detoxify>=0.5.2
+sentence-transformers>=3.0.0
+bert-score>=0.3.13
+
+# Data
+pandas>=2.0.0
+tqdm>=4.66.0
+pyyaml>=6.0.0
+numpy>=1.26.0
+huggingface_hub>=0.23.0
